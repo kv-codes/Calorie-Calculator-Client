@@ -1,14 +1,14 @@
 # Contents
 
-*URL's
-*App description
-*Technologies used
-*Screenshots
-*Code examples
+* URL's
+* App description
+* Technologies used
+* Screenshots
+* Code examples
 
 ## URL's
-Live demo: 
-GitHub repo:
+Live demo: https://frosty-visvesvaraya-e91968.netlify.app/\
+GitHub repo: https://github.com/kv-codes/covid-dashboard\
 
 
 In the project directory, you can run:
