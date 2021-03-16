@@ -8,7 +8,7 @@
 
 ## URL's
 Live demo: https://frosty-visvesvaraya-e91968.netlify.app/ \
-GitHub repo: https://github.com/kv-codes/covid-dashboard \
+GitHub repo: https://github.com/kv-codes/covid-dashboard 
 
 
 
@@ -33,7 +33,7 @@ You will also see any lint errors in the console.
 ## Screenshots 
 
 The welcome section:
-![picture alt](CalorieCalc-display/200x150 "Title is optional")
+![picture alt](https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/CalorieCalc-disp2.png/200x150 "Title is optional")
 
 ## Challenges
 
