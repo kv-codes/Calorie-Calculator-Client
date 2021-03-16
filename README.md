@@ -33,7 +33,9 @@ You will also see any lint errors in the console.
 ## Screenshots 
 
 The welcome section:
-![picture alt](https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/CalorieCalc-disp2.png/200x150)
+![picture alt](https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/CalorieCalc-disp2.png)
+
+
 
 ## Challenges
 
