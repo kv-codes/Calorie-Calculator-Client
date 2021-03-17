@@ -58,7 +58,7 @@ Database of BMI averages:
 
 Express server is used:
 
-<img src="https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/express.png" width="200" height="200">
+<img src="https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/express.png" width="200" height="150">
 
 Constructors and hooks:
 
@@ -66,7 +66,7 @@ Constructors and hooks:
 
 Postgres database table:
 
-<img src="https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/postgres%20table.png" width="200" height="200">
+<img src="https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/postgres%20table.png" width="200" height="150">
 
 
 
