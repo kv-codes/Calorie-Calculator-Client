@@ -50,11 +50,23 @@ The user is then presented with their desired calculations:
 ## Code Examples
 Api fetch here:
 
+<img src="https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/Api.png" width="200" height="">
+
 Database of BMI averages:
 
+<img src="https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/database.png" width="200" height="200">
 
+Express server is used:
 
-Router function:
+<img src="https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/express.png" width="200" height="200">
+
+Constructors and hooks:
+
+<img src="https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/constructor.png" width="200" height="200">
+
+Postgres database table:
+
+<img src="https://github.com/kv-codes/Calorie-Calculator-Client/blob/main/public/postgres%20table.png" width="200" height="200">
 
 
 
